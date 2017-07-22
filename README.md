@@ -2,9 +2,9 @@
 高校3年のときに友達と共同制作した宅配料金シミュレータ
 
 ## 開発環境
-Language: C#
-OS: Widnows7 Proffesional (64 bit)
-IDE: Microsoft Visual Studio 2012 Express
+- Language: C#
+- OS: Widnows7 Proffesional (64 bit)
+- IDE: Microsoft Visual Studio 2012 Express
 
 ## 機能説明
 - 宅配物の大きさや重さを入力すると、価格を表示します。
